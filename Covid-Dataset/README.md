@@ -1,0 +1,1 @@
+This project is a study on the Covid dataset available on https://covid.saude.gov.br. The purpose of this work is to try and understand, clean and visualize interest aspects of the data that represents the evolution of Covid between 2020 and 2022.
