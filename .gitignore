@@ -1,2 +1,5 @@
 # Large dataset files
 Covid-Dataset/data/
+
+# Notebook checkpoints
+CSV-Validation-Problem/.ipynb_checkpoints/
