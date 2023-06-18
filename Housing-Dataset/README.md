@@ -1,1 +1,1 @@
-Projeto de Aprendizado de Máquina de ponta a ponta (do capítulo 2 do livro "Mãos À Obra: Aprendizado De Máquina Com Scikit-learn, Keras & Tensorflow").
+End-to-End Machine Learning Project from chapter 2 of the book "Hands-On Machine Learning with Scikit-learn, Keras & Tensorflow".
