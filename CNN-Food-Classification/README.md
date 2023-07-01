@@ -1,0 +1,1 @@
+This project is a study on the Convolutional Neural Networks provided by TensorFlow and Keras. Here I trained a model to classify fast food images from Kaggle (kaggle.com/datasets/utkarshsaxenadn/fast-food-classification-dataset?resource=download&select=Fast+Food+Classification+V2), just to get used to the libraries and CNN concepts.
